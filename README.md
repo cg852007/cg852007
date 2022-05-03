@@ -1,7 +1,32 @@
-### Hi there 👋
+<h1>Hi, I'm Chris! </h1>
+
+<h2>👨‍💻 Cybersecurity and Network Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/cg852007/LABURL)
+  - [Create a Cryptocurrency](https://github.com/cg852007/LABURL)
+  - [A Simple Port Scanner](https://github.com/cg852007/LABURL)
+
+<h2>Degree and Certificatoins</h2>
+- B.S. Computer Science degree
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/Chris92469094
+[youtube]: https://www.youtube.com/c
+[linkedin]: https://linkedin.com/in/gray-christopher
 
 <!--
-**cg852007/cg852007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
