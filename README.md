@@ -5,6 +5,8 @@
   - [Active Directory Home Lab](https://github.com/cg852007/LABURL)
   - [Create a Cryptocurrency](https://github.com/cg852007/LABURL)
   - [A Simple Port Scanner](https://github.com/cg852007/LABURL)
+  - [How To Hide Files In a JPG Picture & Unhide Hidden Files](https://github.com/cg852007/LABURL)
+  - [Encryption – How to use ROT13 to encrypt and decrypt](https://github.com/cg852007/LABURL)
 
 <h2>Degree and Certificatoins</h2>
 - B.S. Computer Science degree
