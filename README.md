@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity and Network Projects:</h2>
 
   - [How To Hide Files In a JPG Picture & Unhide Hidden Files](https://github.com/cg852007/How-To-Hide-Files-In-A-JPEG)
-  - [Backing up my data to OneDrive and USB Flash Drive](https://github.com/cg852007/LABURL)
-  - [How to create an image backup in Windows 10](https://github.com/cg852007/LABURL)
-  - [File Backup for Windows 10](https://github.com/cg852007/LABURL)
-  - [Upgrading RAM on my PC NOT ACTIVE](https://github.com/cg852007/LABURL)
+  - [Upgrading RAM on my PC](https://github.com/cg852007/Upgrading-RAM-on-my-PC)
+  - [Backing up my data to OneDrive and USB Flash Drive NOT ACTIVE](https://github.com/cg852007/LABURL)
+  - [How to create an image backup in Windows 10 NOT ACTIVE](https://github.com/cg852007/LABURL)
+  - [File Backup for Windows 10 NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Create a Cryptocurrency NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [A Simple Port Scanner NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Encryption – How to use ROT13 to encrypt and decrypt NOT ACTIVE](https://github.com/cg852007/LABURL)
