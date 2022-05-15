@@ -14,6 +14,7 @@
   - [Encryption – How to use ROT13 to encrypt and decrypt NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Kali Linux Installation NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Active Directory Home Lab NOT ACTIVE](https://github.com/cg852007/LABURL)
+  - [Template](https://github.com/cg852007/LABURL)
 
 <h2>Degree and Certificatoins</h2>
 - B.S. Computer Science degree
