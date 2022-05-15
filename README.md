@@ -5,6 +5,7 @@
   - [How To Hide Files In a JPG Picture & Unhide Hidden Files](https://github.com/cg852007/How-To-Hide-Files-In-A-JPEG)
   - [Upgrading RAM on my PC](https://github.com/cg852007/Upgrading-RAM-on-my-PC)
   - [I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot NOT ACTIVE](https://github.com/cg852007/LABURL)
+  - [kali-live-reinstall NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Backing up my data to OneDrive and USB Flash Drive NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [How to create an image backup in Windows 10 NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [File Backup for Windows 10 NOT ACTIVE](https://github.com/cg852007/LABURL)
