@@ -33,7 +33,7 @@
 [<img align="left" alt="cg852007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Chris92469094
-[youtube]: https://www.youtube.com/
+[youtube]: [https://www.youtube.com/](https://www.youtube.com/channel/UCpXLj2y37AwPs6BIt9yTtuA)
 [linkedin]: https://linkedin.com/in/gray-christopher
 
 <!--
