@@ -5,7 +5,7 @@
   - [How To Hide Files In a JPG Picture & Unhide Hidden Files](https://github.com/cg852007/How-To-Hide-Files-In-A-JPEG)
   - [Upgrading RAM on my PC](https://github.com/cg852007/Upgrading-RAM-on-my-PC)
   - [How to build a virtual machine with Kali](https://github.com/cg852007/How-to-build-a-virtual-machine-with-Kali)
-  - [Steganography - How to Hide Data in Audio Files](https://github.com/cg852007/LABURL)
+  - [Steganography - How to Hide Data in Audio Files](https://github.com/cg852007/Steganography-How-to-Hide-Data-in-Audio-Files)
   - [Make a keylogger NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [How to setup and use ProxyChains NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot NOT ACTIVE](https://github.com/cg852007/LABURL)
