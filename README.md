@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity and Network Projects:</h2>
 
+  - [A Simple Port Scanner NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [How To Hide Files In a JPG Picture & Unhide Hidden Files](https://github.com/cg852007/How-To-Hide-Files-In-A-JPEG)
   - [Upgrading RAM on my PC](https://github.com/cg852007/Upgrading-RAM-on-my-PC)
   - [How to build a virtual machine with Kali](https://github.com/cg852007/How-to-build-a-virtual-machine-with-Kali)
@@ -14,7 +15,6 @@
   - [How to create an image backup in Windows 10 NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [File Backup for Windows 10 NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Create a Cryptocurrency NOT ACTIVE](https://github.com/cg852007/LABURL)
-  - [A Simple Port Scanner NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Encryption – How to use ROT13 to encrypt and decrypt NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Kali Linux Installation NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Active Directory Home Lab NOT ACTIVE](https://github.com/cg852007/LABURL)
