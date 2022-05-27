@@ -1,4 +1,5 @@
-<h1>Hi, I'm Chris! </h1>
+<h1>Hi, I'm Chris!</h1>
+ I started a github to track all the projects I do. I thought it would be nice to have them all in one spot just in case I wanted to look something up later. Or maybe someone will see some of these and have suggestions that I can learn from. Most of these are probably going to be me following along through other people's guides and what not, at least until I learn more and can start creating my own. I'm kind of hoping these will also help find a job... that would be GREAT!</h1>
 
 <h2>👨‍💻 Cybersecurity and Network Projects:</h2>
 
@@ -27,7 +28,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [N/A](https://www.youtube.com/)
+- [How to hide files in a photo](https://youtu.be/eTv6_yf2Mm4)
 
 
 <h2> 🤳 Connect with me:</h2>
