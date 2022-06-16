@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity and Network Projects:</h2>
 
-  - [How to crack passwords - .cap files](https://github.com/cg852007/notactive)
+  - [How to crack passwords - .cap files](https://github.com/cg852007/How-to-crack-passwords---.cap-files)
   - [Create malware - ransomeware](https://github.com/cg852007/Create-malware---ransomeware)
   - [CHECKSUM How to verify file integrity with Powershell SHA256SUM](https://github.com/cg852007/CHECKSUM-How-to-verify-file-integrity-with-Powershell-SHA256SUM)
   - [How To Hide Files In a JPG Picture & Unhide Hidden Files](https://github.com/cg852007/How-To-Hide-Files-In-A-JPEG)
