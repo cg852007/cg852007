@@ -11,6 +11,7 @@
   - [How to build a virtual machine with Kali](https://github.com/cg852007/How-to-build-a-virtual-machine-with-Kali)
   - [Steganography - How to Hide Data in Audio Files](https://github.com/cg852007/Steganography-How-to-Hide-Data-in-Audio-Files)
   - [Phishing - Setup a phishing campaign with Gophish NOT ACTIVE](https://github.com/cg852007/LABURL)
+  - [Phishing - How to change the destination of your URL link NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [A Simple Port Scanner NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [Make a keylogger NOT ACTIVE](https://github.com/cg852007/LABURL)
   - [How to setup and use ProxyChains NOT ACTIVE](https://github.com/cg852007/LABURL)
